@@ -1,0 +1,9 @@
+.terraform/
+*.tfstate
+*.tfstate.backup
+terraform.tfvars
+*.tfvars
+terra-key-ec2
+terra-key-ec2.pub
+*.pem
+.vscode/
